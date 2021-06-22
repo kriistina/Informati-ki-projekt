@@ -1,0 +1,26 @@
+.container{
+    margin-top: 20px;
+}
+
+.uvod{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer{
+    text-align: center;
+    background-color: indianred;
+    padding: 40px;
+    color: rgb(53, 53, 70);
+
+}
+
+footer p{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+footer i{
+    color: rgb(53, 53, 70);
+    padding-right: 20px;
+}
