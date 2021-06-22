@@ -1,1 +1,1 @@
-# Informati-ki-projekt
+# Informaticki-projekt
